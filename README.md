@@ -23,7 +23,6 @@ Shark Audio is designed for:
 
 ![Preview 1](preview/prev1.jpg)
 ![Preview 2](preview/prev2.jpg)
-![Preview 3](preview/prev3.jpg)
 
 ---
 
