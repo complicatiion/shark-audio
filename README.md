@@ -21,8 +21,8 @@ Shark Audio is designed for:
 
 ## Previews
 
-![Preview 1](preview/prev1.jpg)
-![Preview 2](preview/prev2.jpg)
+![Preview 1](preview/preview1.jpg)
+![Preview 2](preview/preview2.jpg)
 
 ---
 
